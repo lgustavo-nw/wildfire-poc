@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo
 
-https://github.com/lgustavo-nw/wildfire-poc/assets/103047145/b0ee3226-28ce-4479-8a85-ba1a013e6092
+https://github.com/lgustavo-nw/wildfire-poc/assets/103047145/6ad165aa-fce8-4d5c-95a8-19ff6691c1d8
 
 ## Getting Started
 
